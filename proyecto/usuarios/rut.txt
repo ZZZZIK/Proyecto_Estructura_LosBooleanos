@@ -1,0 +1,38 @@
+------- FICHA PERSONAL 2023-12-01 23:10:53-------
+RUT: rut
+Nombre: rut
+Edad: 45
+Sexo: M
+
+------- HORAS MEDICAS REGISTRADAS-------
+------- IMC -------
+Su imc corresponde a 0.00 
+Usted se encuentra en el rango (null)
+(null)
+
+------- HORAS DE SUEÑO -------
+Lunes: 0
+Martes: 0
+Miercoles: 0
+Jueves: 0
+Viernes: 0
+Sabados: 0
+Domingo: 0
+
+------- RUTINAS DE EJERCICIOS -------
+Lunes: 
+Martes: 
+Miercoles: 
+Jueves: 
+Viernes: 
+Sabados: 
+Domingo: 
+
+------- MEDICAMENTOS REGISTRADOS -------
+Lunes: 
+Martes: 
+Miercoles: 
+Jueves: 
+Viernes: 
+Sabados: 
+Domingo: 

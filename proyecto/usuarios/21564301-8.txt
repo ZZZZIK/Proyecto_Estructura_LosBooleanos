@@ -1,0 +1,43 @@
+------- FICHA PERSONAL 2023-11-27 14:00:04-------
+RUT: 21564301-8
+Nombre: Felipe Núñez
+Edad: 19
+Sexo: M
+
+------- HORAS MEDICAS REGISTRADAS-------
+Hora: 12:30
+Fecha: 24/07/23 
+Nombre del médico: Dr. Juan Fuentes
+Informacion extra: Información no ingresada.
+
+------- IMC -------
+Su imc corresponde a 23.18 
+Usted se encuentra en el rango Peso normal ✔
+𝙲𝚘𝚗𝚜𝚎𝚓𝚘: 𝙰𝚞𝚖𝚎𝚗𝚝𝚎 𝚜𝚞 𝚒𝚗𝚐𝚎𝚜𝚝𝚊 𝚍𝚎 𝚌𝚊𝚕𝚘𝚛í𝚊𝚜 𝚢 𝚗𝚞𝚝𝚛𝚒𝚎𝚗𝚝𝚎𝚜, 𝚌𝚘𝚗𝚜𝚒𝚍𝚎𝚛𝚎 𝚑𝚊𝚋𝚕𝚊𝚛 𝚌𝚘𝚗 𝚞𝚗 𝚗𝚞𝚝𝚛𝚒𝚌𝚒𝚘𝚗𝚒𝚜𝚝𝚊.
+
+------- HORAS DE SUEÑO -------
+Lunes: 6
+Martes: 5
+Miercoles: 4
+Jueves: 6
+Viernes: 0
+Sabados: 0
+Domingo: 0
+
+------- RUTINAS DE EJERCICIOS -------
+Lunes:  Ejercicio: Sentadillas, Reps/Tiempo: 30
+Martes: 
+Miercoles: 
+Jueves: 
+Viernes: 
+Sabados: 
+Domingo: 
+
+------- MEDICAMENTOS REGISTRADOS -------
+Lunes:  Paracetamol a las 12:00, 
+Martes: 
+Miercoles: 
+Jueves: 
+Viernes: 
+Sabados: 
+Domingo: 

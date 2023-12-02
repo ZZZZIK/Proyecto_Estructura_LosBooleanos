@@ -1,0 +1,43 @@
+------- FICHA PERSONAL 2023-12-01 23:07:15-------
+RUT: 12345678-9
+Nombre: pepe
+Edad: 14
+Sexo: M
+
+------- HORAS MEDICAS REGISTRADAS-------
+Hora: 23:59
+Fecha: 13/04/201023:59 
+Nombre del médico: ALBERTO
+Informacion extra: tiene cancer
+
+------- IMC -------
+Su imc corresponde a 0.00 
+Usted se encuentra en el rango (null)
+(null)
+
+------- HORAS DE SUEÑO -------
+Lunes: 0
+Martes: 0
+Miercoles: 0
+Jueves: 0
+Viernes: 0
+Sabados: 0
+Domingo: 0
+
+------- RUTINAS DE EJERCICIOS -------
+Lunes:  Ejercicio: sentadilla, Reps/Tiempo: 24 Ejercicio: repeticiones, Reps/Tiempo: a
+Martes: 
+Miercoles: 
+Jueves: 
+Viernes: 
+Sabados: 
+Domingo: 
+
+------- MEDICAMENTOS REGISTRADOS -------
+Lunes: 
+Martes: 
+Miercoles: 
+Jueves: 
+Viernes: 
+Sabados: 
+Domingo: 
