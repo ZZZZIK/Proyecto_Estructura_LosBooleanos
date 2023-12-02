@@ -13,5 +13,5 @@ los usuarios ya creados para posteriormente en una nueva ejecución con el mismo
 es decir el usuario no deberia crear un nuevo usuario si ya utilizo el programa antes.
 
 
-
+*NO SE REALIZARON COMMIT , SE TRABAJÓ TODO EN REPLIT DE MANERA COLABORATIVA*
 
