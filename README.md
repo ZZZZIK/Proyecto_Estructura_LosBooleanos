@@ -1,22 +1,37 @@
-# Proyecto_Estructura_LosBooleanos
+# Proyecto académico – Estructura de Datos (Los Booleanos)
+Asignatura ESTRUCTURA DE DATOS período 2º Semestre 2023
 
-**Integrantes:**
-Alonso Maurel
-Monserrath Morales
-Felipe Nuñez 
-Francisco Quiroga 
+**Integrantes:**  
+Alonso Maurel  
+Monserrath Morales  
+Felipe Nuñez  
+Francisco Quiroga
 
-## Objetivos
+## Descripción
 
-Desarrollar una aplicación enfocada en el área de la salud, orientada a la gestión de usuarios y sus datos médicos. El sistema permite:
+Aplicación desarrollada en lenguaje C para la gestión de usuarios en el área de la salud. El sistema permite:
 
 - Crear y almacenar usuarios
-- Recuperar usuarios previamente registrados
-- Evitar duplicación de registros en nuevas ejecuciones
-- Persistencia de datos mediante archivos
+- Asignar planes médicos y beneficios
+- Persistir datos entre ejecuciones mediante archivos
+- Evitar duplicación de usuarios ya registrados
 
-## Entorno de desarrollo
+## Estructuras utilizadas
 
-Este proyecto fue desarrollado de forma colaborativa en [Replit](https://replit.com), sin uso de control de versiones (commits).
+- `HashMap` para gestión eficiente de usuarios
+- `List` para almacenamiento dinámico
+- Archivos `.txt` para persistencia de datos
 
-> *El código se trabajó íntegramente en Replit, por lo que no se realizaron commits en GitHub durante el desarrollo.*
+## Cómo ejecutar
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/ZZZZIK/Proyecto_Estructura_LosBooleanos
+
+2. Abre el proyecto en tu editor preferido (Visual Studio Code, Code::Blocks, etc.)
+3. Compila el programa: gcc main.c hashmap.c list.c -o salud
+4. Ejecuta el programa: ./salud (Requiere tener instalado GCC o cualquier compilador compatible con C)
+
+## Consideraciones
+- El proyecto fue desarrollado colaborativamente en Replit, sin uso de control de versiones (commits).
+- Los archivos generados por el programa se almacenan en la carpeta /usuarios.
